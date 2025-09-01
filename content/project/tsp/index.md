@@ -10,6 +10,11 @@ tags:
 date: "2025-05-26"
 image:
   filename: "gui1.png"
+links:
+  - icon: brands/github
+    icon_pack: fab
+    name: "Source Code"
+    url: "https://github.com/thilinnd/GA_TSP.git"
 ---
 ### Project Overview
 - Implemented **Genetic Algorithm (GA)** to solve the **Traveling Salesman Problem (TSP)**, optimizing routes across Vietnamese provinces.
