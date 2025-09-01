@@ -49,10 +49,14 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: projects
+  - block: collection
     content:
       title: Projects
-      username: admin
+      page_type: project
+      count: 3     # số project muốn show ra
+      filters:
+        folders:
+          - project
       
 
 ---
