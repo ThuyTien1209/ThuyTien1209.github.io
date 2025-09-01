@@ -1,6 +1,7 @@
 ---
 title: "Stroke Risk Prediction"
 summary: "Applied ML models (Decision Tree, SVM, Logistic Regression) to predict stroke risk using healthcare dataset."
+share: false
 tags:
   - Python
   - Machine Learning
