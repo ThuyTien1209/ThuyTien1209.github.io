@@ -7,7 +7,7 @@ tags:
   - Data Mining
 date: "2025-05-26"
 image:
-  filename: "stroke.png"
+  filename: "stroke-pre.png"
 ---
 
 - Preprocessed healthcare dataset (5110 patients) using Pandas.  
