@@ -8,7 +8,7 @@ tags:
   - Data Mining
 date: "2025-05-26"
 image:
-  filename: "stroke-pre.png"
+  filename: "stroke.png"
 ---
 ### Project Overview
 - Developed a predictive model for stroke risk using the **Stroke Prediction Dataset (Kaggle, 5110 patients)** containing demographic, clinical, and lifestyle factors.  
