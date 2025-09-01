@@ -15,12 +15,12 @@ role: Data Analyst Intern
 
 # Socials
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: "mailto:tienle.31231020076@st.ueh.edu.vn"
   - icon: brands/github
     url: "https://github.com/ThuyTien1209"
   - icon: brands/linkedin
-    url: "https://www.linkedin.com/in/thu%CC%A3y-tie%CC%82n-le%CC%82-6b2750357/"
+    url: "www.linkedin.com/in/thuỷ-tiên-lê-sep12"
 
 # Education
 education:
