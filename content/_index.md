@@ -57,6 +57,12 @@ sections:
       filters:
         folders:
           - project
+      view: card
+      sort_by: "date"
+    # hiện tags
+      show_tags: true
+    # hiện hình
+      show_image: true
       
 
 ---
