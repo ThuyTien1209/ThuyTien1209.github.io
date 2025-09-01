@@ -96,14 +96,14 @@ languages:
 awards:
   - title: Academic Excellence Scholarship
     url: "https://drive.google.com/file/d/1GkFQ_xzOJ_xiiRLZzjanqXoEXxzma7M0/view?usp=sharing"
-    date: "2024-08-24"
+    date: "2025-08-24"
     awarder: UEH
     summary: |
       Awarded to top 5% of students in the major.
 
   - title: 1st Runner Up | UEH Debate 2024 (English League)
     url: "https://www.facebook.com/share/p/16xvRN71zp/"
-    date: "2024-05-01"
+    date: "2024-10-01"
     awarder: UEH
     summary: |
       Advanced to the final and surpassed dozens of competing teams across UEH; refined English public speaking and critical thinking.
