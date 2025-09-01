@@ -34,6 +34,17 @@ education:
 
 # Work / Activities
 work:
+  - position: Program Collaborator & Host
+    company_name: UEH English Zone
+    company_url: "https://dsa.ueh.edu.vn/english-zone/"
+    company_logo: ""
+    date_start: 2024-03-01
+    date_end: ""
+    summary: |2-
+      - Hosted language talks, cultural exchanges, and interactive activities.
+      - Coordinated programs that attracted diverse student participation.
+      - Enhanced leadership, public speaking, and event management in an English-only environment.
+        
   - position: Teaching Assistant (Part-time)
     company_name: VUS – The English Center
     company_url: "https://vus.edu.vn"
@@ -44,17 +55,6 @@ work:
       - Supported instructors (20–30 students): Q&A, grading, class logistics.
       - Created clear explanations & slide snippets to improve engagement.
       - Strengthened communication, time management, and teamwork.
-
-  - position: Event Host & Organizer
-    company_name: UEH English Zone
-    company_url: ""
-    company_logo: ""
-    date_start: 2024-03-01
-    date_end: ""
-    summary: |2-
-      - Hosted language talks, cultural exchanges, and interactive activities.
-      - Coordinated programs that attracted diverse student participation.
-      - Enhanced leadership, public speaking, and event management in an English-only environment.
 
 # Skills
 skills:
