@@ -116,7 +116,7 @@ awards:
       Crowned Champion after surpassing all other teams in the Faculty tournament; demonstrated persuasive communication and strategic argumentation.
 
 # Avatar image (place this file in content/authors/admin/)
-avatar_filename: "avatar.jpg"
+avatar_filename: "IMG_4283.jpg"
 ---
 Hi! I’m on the path to becoming a **Data Analyst**, passionate about **SQL, Python, Tableau, and ML**.
 I use data to solve business problems and build dashboards that support decisions.
