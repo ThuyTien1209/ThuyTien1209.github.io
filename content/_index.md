@@ -49,13 +49,10 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: collection
+  - block: projects
     content:
       title: Projects
-      page_type: project
-      count: 3     
-      filters:
-        folders:
-          - project
+      username: admin
+      
 
 ---
