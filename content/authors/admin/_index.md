@@ -2,126 +2,120 @@
 # Display name
 title: Le Thuy Tien
 
-
-# Pronouns (optional)
+# (optional)
 pronouns: she/her
-
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
+# Primary user
 superuser: true
 
-# Role/position/tagline
+# Role/tagline
 role: Data Analyst Intern
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Socials
 profiles:
   - icon: at-symbol
-    url: 'tienle.31231020076@st.ueh.edu.vn'
+    url: "mailto:tienle.31231020076@st.ueh.edu.vn"
   - icon: brands/github
-    url: https://github.com/ThuyTien1209
+    url: "https://github.com/ThuyTien1209"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/thu%E1%BB%B7-ti%C3%AAn-l%C3%AA-6b2750357/
+    url: "https://www.linkedin.com/in/thu%CC%A3y-tie%CC%82n-le%CC%82-6b2750357/"
 
-
+# Education
 education:
   - area: Bachelor in Data Science
     institution: University of Economics Ho Chi Minh City (UEH)
     date_start: 2023-09-01
     date_end: 2026-06-30
     summary: |
-      - GPA: 3.61/4.0 
-      - Key courses: Econometrics, Mathematical Statistics, Database Systems, Data Structures & Algorithms, Artificial Intelligence, Machine Learning.
+      - GPA: 3.61/4.0
+      - Key courses: Econometrics, Mathematical Statistics, Database Systems, Data Structures & Algorithms, AI/ML.
 
-
+# Work / Activities
 work:
   - position: Teaching Assistant (Part-time)
     company_name: VUS – The English Center
-    company_url: 'https://vus.edu.vn'
-    company_logo: ''
-    date_start: '2023-11-20'
-    date_end: '2024-11-20'
+    company_url: "https://vus.edu.vn"
+    company_logo: ""
+    date_start: 2023-11-20
+    date_end: 2024-11-20
     summary: |2-
-      Responsibilities include:
-      - Supported instructors in classes (20–30 students); handled Q&A, grading, and class logistics.
-      - Developed clear explanations and slide snippets → improved student comprehension & engagement.
-      - Strengthened communication, time management, and teamwork in fast-paced environment.
-  - position: Collaborator
+      - Supported instructors (20–30 students): Q&A, grading, class logistics.
+      - Created clear explanations & slide snippets to improve engagement.
+      - Strengthened communication, time management, and teamwork.
+
+  - position: Event Host & Organizer
     company_name: UEH English Zone
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-03-20
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Hosted and facilitated English Zone events including language talks, cultural exchange sessions, and interactive activities.
-      - Coordinated with peers and faculty to design and organize programs that attracted diverse student participation.
-      - Enhanced leadership, public speaking, and event management skills in an English-only environment.
-      - Contributed to UEH’s internationalization efforts by creating an engaging space for students to practice English and build cross-cultural connections.
+    company_url: ""
+    company_logo: ""
+    date_start: 2024-03-01
+    date_end: ""
+    summary: |2-
+      - Hosted language talks, cultural exchanges, and interactive activities.
+      - Coordinated programs that attracted diverse student participation.
+      - Enhanced leadership, public speaking, and event management in an English-only environment.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: SQL (MySQL/PostgreSQL)
+        description: ""
+        percent: 80
+        icon: devicon/mysql
+      - name: Python (pandas, numpy, matplotlib)
+        description: ""
         percent: 80
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Tableau / Power BI
+        description: ""
+        percent: 70
+        icon: simple-icons/tableau
+  - name: Soft Skills
+    color: "#3b82f6"
+    color_border: "#60a5fa"
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Analytical & Problem-Solving
+        description: ""
         percent: 80
-        icon: camera
+        icon: sparkles
+      - name: Communication & Public Speaking
+        description: ""
+        percent: 70
+        icon: megaphone
 
+# Languages
 languages:
   - name: Vietnamese
     percent: 100
   - name: English (IELTS 7.5)
     percent: 85
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: Academic Excellence Scholarship
-    date: '2024-08-24'
+    date: "2024-08-24"
     awarder: UEH
     summary: |
       Awarded to top 5% of students in the major.
+
   - title: 1st Runner Up | UEH Debate 2024 (English League)
-    url: https://www.facebook.com/share/p/16qFruzsce/
-    date: '2024-08-24'
-    awarder: Faculty of Business Information Technology
+    date: "2024-05-01"
+    awarder: UEH
     summary: |
-      Advanced to the final round and surpassed dozens of competing teams across UEH.
+      Advanced to the final and surpassed dozens of competing teams across UEH; refined English public speaking and critical thinking.
+
   - title: Champion | UEH Debate 2024 (Faculty of Business Information Technology)
-    url: https://www.facebook.com/share/p/16qFruzsce/
-    date: '2024-08-24'
-    awarder: Faculty of Business Information Technology
+    url: "https://www.facebook.com/share/p/16qFruzsce/"
+    date: "2024-08-24"
+    awarder: Faculty of Business Information Technology, UEH
     summary: |
-      Strengthened critical thinking and refined English public speaking through competitive debating in an academic league.
-    
+      Crowned Champion after surpassing all other teams in the Faculty tournament; demonstrated persuasive communication and strategic argumentation.
+
+# Avatar image (place this file in content/authors/admin/)
+avatar_filename: "avatar.jpg"
+---
+Hi! I’m on the path to becoming a **Data Analyst**, passionate about **SQL, Python, Tableau, and ML**.
+I use data to solve business problems and build dashboards that support decisions.
+I’m seeking a **Data Analyst Internship** to learn, grow, and contribute to real projects.
