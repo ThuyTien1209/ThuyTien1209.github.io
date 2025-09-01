@@ -39,7 +39,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
   - block: awards
     content:
@@ -49,4 +49,13 @@ sections:
     content:
       title: Languages
       username: admin
+   - block: collection
+    content:
+      title: Projects
+      page_type: project
+      count: 3     
+      filters:
+        folders:
+          - project
+
 ---
