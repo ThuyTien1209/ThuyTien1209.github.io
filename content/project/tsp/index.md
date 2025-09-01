@@ -10,7 +10,6 @@ date: "2025-05-26"
 image:
   filename: "gui1.png"
 ---
-
 ### Project Overview
 - Implemented **Genetic Algorithm (GA)** to solve the **Traveling Salesman Problem (TSP)**, optimizing routes across Vietnamese provinces.
 - Applied key GA operators: **Tournament Selection, Single/Two-point & Order Crossover, Swap/Inverse Mutation**, with customizable parameters (population size, mutation rate, generations).  
