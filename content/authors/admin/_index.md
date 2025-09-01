@@ -112,21 +112,16 @@ awards:
     awarder: UEH
     summary: |
       Awarded to top 5% of students in the major.
+  - title: 1st Runner Up | UEH Debate 2024 (English League)
+    url: https://www.facebook.com/share/p/16qFruzsce/
+    date: '2024-08-24'
+    awarder: Faculty of Business Information Technology
+    summary: |
+      Advanced to the final round and surpassed dozens of competing teams across UEH.
   - title: Champion | UEH Debate 2024 (Faculty of Business Information Technology)
     url: https://www.facebook.com/share/p/16qFruzsce/
     date: '2024-08-24'
     awarder: Faculty of Business Information Technology
     summary: |
       Strengthened critical thinking and refined English public speaking through competitive debating in an academic league.
-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
-
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+    
