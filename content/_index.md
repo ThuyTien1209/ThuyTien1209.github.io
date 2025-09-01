@@ -49,7 +49,7 @@ sections:
     content:
       title: Languages
       username: admin
-   - block: collection
+  - block: collection
     content:
       title: Projects
       page_type: project
