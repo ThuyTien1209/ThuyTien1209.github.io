@@ -1,6 +1,7 @@
 ---
 title: "Traveling Salesman Problem Solver with Genetic Algorithm"
 summary: "Developed a GA solution for the TSP using the dataset of 63 provinces in Vietnam, with a GUI for visualization and parameter tuning."
+share: false
 tags:
   - Python
   - Genetic Algorithm
