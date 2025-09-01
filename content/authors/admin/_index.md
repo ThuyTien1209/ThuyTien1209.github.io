@@ -37,7 +37,7 @@ work:
   - position: Program Collaborator & Host
     company_name: UEH English Zone
     company_url: "https://dsa.ueh.edu.vn/english-zone/"
-    company_logo: ""
+    company_logo: "ez.png"
     date_start: 2024-03-01
     date_end: ""
     summary: |2-
@@ -48,7 +48,7 @@ work:
   - position: Teaching Assistant (Part-time)
     company_name: VUS – The English Center
     company_url: "https://vus.edu.vn"
-    company_logo: ""
+    company_logo: "vus.png"
     date_start: 2023-11-20
     date_end: 2024-11-20
     summary: |2-
